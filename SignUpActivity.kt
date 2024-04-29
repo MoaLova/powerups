@@ -1,3 +1,3 @@
 class SignUpActivity {
-    //Sign up
+    //Sign up here
 }
